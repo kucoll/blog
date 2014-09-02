@@ -19,11 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.pujin.microbiz</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.1.1</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>shwsw</string>
 				<key>title</key>
-				<string>微商务</string>
+				<string>shwsw</string>
 			</dict>
 		</dict>
 	</array>
